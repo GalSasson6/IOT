@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+.env
+**/__pycache__/
+*.py[cod]
+include/generated_config.h
